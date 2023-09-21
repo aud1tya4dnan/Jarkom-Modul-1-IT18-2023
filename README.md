@@ -174,4 +174,4 @@ kemudian di connect kan ke netcat tersebut dan menjawab soal yang diberikan
 ![image17](https://github.com/aud1tya4dnan/Jarkom-Modul-1-IT18-2023/assets/91017662/b86360bd-63b9-4168-b44a-aa6e401aa250)
 
 dan didapatkan flag 
-FLAG = Jarkom2023{qu3ryyyyying_018623_DmCkBjPkPkS_15_fun}
+FLAG = Jarkom2023{k0w4lski_3429_liOyjRuEEFB_4nalys1s}
