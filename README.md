@@ -168,4 +168,10 @@ didapatkan password untuk file zippppfileee.zip, di dalam file zip tersebut terd
 kemudian notepad dibuka dan berisi 
 
 ![image20](https://github.com/aud1tya4dnan/Jarkom-Modul-1-IT18-2023/assets/91017662/138ce6b1-f262-40fb-9f79-95bd2be375ec)
-![image20](https://github.com/aud1tya4dnan/Jarkom-Modul-1-IT18-2023/assets/91017662/ddf60d5e-3194-4d6d-acc8-a7638ce40366)
+
+kemudian di connect kan ke netcat tersebut dan menjawab soal yang diberikan
+
+![image17](https://github.com/aud1tya4dnan/Jarkom-Modul-1-IT18-2023/assets/91017662/b86360bd-63b9-4168-b44a-aa6e401aa250)
+
+dan didapatkan flag 
+FLAG = Jarkom2023{qu3ryyyyying_018623_DmCkBjPkPkS_15_fun}
