@@ -29,7 +29,7 @@
     
     dengan jawaban ini kami dapat menjawab pertanyaan C dan D sebagai berikut 
     
-    ![Untitled]("https://i.ibb.co/NtfPmMQ/Untitled-4.png)
+    ![Untitled](https://i.ibb.co/NtfPmMQ/Untitled-4.png)
     
     dan didapatkan flag seperti berikut 
     
@@ -41,7 +41,7 @@
     
     Sebutkan web server yang digunakan pada portal praktikum Jaringan Komputer!
     
-    ![Untitled]("https://i.ibb.co/nfRZCrT/Untitled-5.png)
+    ![Untitled](https://i.ibb.co/nfRZCrT/Untitled-5.png)
     
     ---
     
