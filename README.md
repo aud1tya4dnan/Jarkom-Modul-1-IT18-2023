@@ -90,7 +90,7 @@
         
         untuk menjawab soal berikut, kami mencari packet header nomor 130 seperti berikut. 
         
-        ![Untitled](https://i.ibb.co/MCgNtxN/Untitled-11.png)
+        ![Untitled](https://i.ibb.co/jvMWvHx/foto.jpg)
        
     
         Selanjutnya, untuk mencari checksumnya dapat membuka user datagram protocol dan di dapatkan checksum berupa `0x18e5` seperti gambar diatas.
