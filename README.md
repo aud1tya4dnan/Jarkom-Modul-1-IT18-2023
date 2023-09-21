@@ -1,5 +1,7 @@
 # Jarkom-Modul-1-IT18-2023
-![image20](https://github.com/aud1tya4dnan/Jarkom-Modul-1-IT18-2023/assets/91017662/ddf60d5e-3194-4d6d-acc8-a7638ce40366)
+
+    1. Keisya Nabila Zahra    (5027211058)
+    2. Auditya Maulana Adnan  (5027211068)
 
 ## Soal 1
 
@@ -164,4 +166,4 @@ didapatkan password untuk file zippppfileee.zip, di dalam file zip tersebut terd
 kemudian notepad dibuka dan berisi 
 
 ![image20](https://github.com/aud1tya4dnan/Jarkom-Modul-1-IT18-2023/assets/91017662/138ce6b1-f262-40fb-9f79-95bd2be375ec)
-
+![image20](https://github.com/aud1tya4dnan/Jarkom-Modul-1-IT18-2023/assets/91017662/ddf60d5e-3194-4d6d-acc8-a7638ce40366)
