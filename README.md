@@ -9,7 +9,7 @@
     3. Berapakah sequence number (raw) pada packet yang menunjukkan response dari aktivitas tersebut?
     4. Berapakah acknowledge number (raw) pada packet yang menunjukkan response dari aktivitas tersebut?
     
-    ![Untitled](lapres%201a2a657ee5694da586344f69c458b4dc/Untitled.png)
+    ![Untitled](https://i.ibb.co/YhKsLMY/Untitled.png)
     
     ---
     
