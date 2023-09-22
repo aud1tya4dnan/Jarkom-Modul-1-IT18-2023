@@ -126,14 +126,6 @@
         **`Flag : Jarkom2023{LEtYx5VF4H0rK779nX_4n0th3r_f1lt3ring}`**
        
         ---
-       
-### Soal 7
-Diberikan soal sebagai berikut
-
-![image22](https://github.com/aud1tya4dnan/Jarkom-Modul-1-IT18-2023/assets/91017662/f950c5d9-3406-4f1f-bfea-248b1092ea96)
-
-Pada soal berikut diberikan sebuah pcap file kemudian 
-
 
 
 
@@ -174,7 +166,7 @@ kemudian di connect kan ke netcat tersebut dan menjawab soal yang diberikan
 ![image17](https://github.com/aud1tya4dnan/Jarkom-Modul-1-IT18-2023/assets/91017662/b86360bd-63b9-4168-b44a-aa6e401aa250)
 
 dan didapatkan flag 
-FLAG = Jarkom2023{k0w4lski_3429_liOyjRuEEFB_4nalys1s}
+`FLAG = Jarkom2023{k0w4lski_3429_liOyjRuEEFB_4nalys1s}`
 
 ### Soal 8
 Diberikan soal seperti berikut
@@ -188,7 +180,7 @@ Kemudian membuka netcut yang diberikan dan menjawab soal
 ![image6](https://github.com/aud1tya4dnan/Jarkom-Modul-1-IT18-2023/assets/91017662/8bec1778-b53e-439d-a80a-f9d5cf780782)
 
 Dimana didapatkan flag seperti berikut
-FLAG = Jarkom2023{qu3ryyyyying_018623_DmCkBjPkPkS_15_fun}
+`FLAG = Jarkom2023{qu3ryyyyying_018623_DmCkBjPkPkS_15_fun}`
 
 ### Soal 9
 Diberikan soal seperti berikut
@@ -205,7 +197,7 @@ Kemudian mengisi netcat yang diberikan
 ![image9](https://github.com/aud1tya4dnan/Jarkom-Modul-1-IT18-2023/assets/91017662/c576b3c8-9433-4d17-82d9-a08ff5bd2e80)
 
 Disini diberikan flag nya sebagai berikut
-FLAG = Jarkom2023{y3s_its_RlPlRmQlSgR_qu3ry1ng}
+`FLAG = Jarkom2023{y3s_its_RlPlRmQlSgR_qu3ry1ng}`
 
 ### Soal 10
 Diberikan soal seperti berikut
@@ -230,4 +222,4 @@ kemudian menjawab soal pada netcat yang diberikan
 ![image8](https://github.com/aud1tya4dnan/Jarkom-Modul-1-IT18-2023/assets/91017662/96ea2720-6faa-4928-acb4-d1474dc54a1c)
 
 Didapatkan flag seperti berikut
-FLAG = Jarkom2023{t3lnet_is_C3z2yC4уC0C0C9xyB_NotSecu2e}
+`FLAG = Jarkom2023{t3lnet_is_C3z2yC4уC0C0C9xyB_NotSecu2e}`
