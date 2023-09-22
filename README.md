@@ -175,3 +175,59 @@ kemudian di connect kan ke netcat tersebut dan menjawab soal yang diberikan
 
 dan didapatkan flag 
 FLAG = Jarkom2023{k0w4lski_3429_liOyjRuEEFB_4nalys1s}
+
+### Soal 8
+Diberikan soal seperti berikut
+
+![image11](https://github.com/aud1tya4dnan/Jarkom-Modul-1-IT18-2023/assets/91017662/178f4d98-8112-427f-8ffc-eee313d2bc6c)
+
+Pada soal tersebut kita di tuntut untuk memahami bagaimana query wireshark untuk mencari semua protocol packet yang menuju packet 80, dimana rata2 yang dapat menuju port 80 adalah protocol tcp dan udp sehingga query yang dapat diberikan adalah tcp.dstport == 80 || udp.dstport == 80 , dimana dst merupakan destination sehingga hanya memfilter packet yang dikirim kan ke destinasi port 80 saja.
+
+Kemudian membuka netcut yang diberikan dan menjawab soal
+
+![image6](https://github.com/aud1tya4dnan/Jarkom-Modul-1-IT18-2023/assets/91017662/8bec1778-b53e-439d-a80a-f9d5cf780782)
+
+Dimana didapatkan flag seperti berikut
+FLAG = Jarkom2023{qu3ryyyyying_018623_DmCkBjPkPkS_15_fun}
+
+### Soal 9
+Diberikan soal seperti berikut
+
+![image18](https://github.com/aud1tya4dnan/Jarkom-Modul-1-IT18-2023/assets/91017662/0eec9cf0-be47-49cc-949a-e3409010e51a)
+
+Sama seperti nomer 8 yaitu dapat menjawab menggunakan query filter wireshark dengan benar. pada soal ini terdapat 2 ip yang berbeda yang harus di filter yaitu 10.51.40.1
+dan 10.39.55.34
+sehingga filternya adalah ip.src == 10.51.40.1 && ip.dst != 10.39.55.34
+
+Kemudian mengisi netcat yang diberikan 
+
+
+![image9](https://github.com/aud1tya4dnan/Jarkom-Modul-1-IT18-2023/assets/91017662/c576b3c8-9433-4d17-82d9-a08ff5bd2e80)
+
+Disini diberikan flag nya sebagai berikut
+FLAG = Jarkom2023{y3s_its_RlPlRmQlSgR_qu3ry1ng}
+
+### Soal 10
+Diberikan soal seperti berikut
+
+![image2](https://github.com/aud1tya4dnan/Jarkom-Modul-1-IT18-2023/assets/91017662/2fab17e6-c9fc-4c56-be44-8e3972765f68)
+
+Pada soal terdapat protocol yang diberikan merupakan protocol TELNET, pada file yang diberikan hal pertama adalah query filter dengan kata kunci telnet sehingga didapatkan packet seperti berikut
+
+![image](https://github.com/aud1tya4dnan/Jarkom-Modul-1-IT18-2023/assets/91017662/0466a207-7761-4bba-95da-a281c8533f8b)
+
+kemudian ketika scrolling ke bawah terlihat beberapa packet yang menarik karena berisi seperti username:password sehingga saya mencoba2 pada netcut yang di berikan kemudian ditemukan username:password nya 
+yang berada di packet ke 81
+
+![image](https://github.com/aud1tya4dnan/Jarkom-Modul-1-IT18-2023/assets/91017662/7d26926a-2292-47e2-a802-c33342378de3)
+
+cara lain yaitu dengan memfolow tcp stream nya, dan username:password nya terdapat pada tcp.stream ke 2
+
+![follow tcp stream eq2](https://github.com/aud1tya4dnan/Jarkom-Modul-1-IT18-2023/assets/91017662/2c27c207-31ea-4c73-bb54-3482a5da105b)
+
+kemudian menjawab soal pada netcat yang diberikan 
+
+![image8](https://github.com/aud1tya4dnan/Jarkom-Modul-1-IT18-2023/assets/91017662/96ea2720-6faa-4928-acb4-d1474dc54a1c)
+
+Didapatkan flag seperti berikut
+FLAG = Jarkom2023{t3lnet_is_C3z2yC4уC0C0C9xyB_NotSecu2e}
